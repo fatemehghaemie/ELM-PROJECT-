@@ -23,11 +23,7 @@ This project was developed as part of the **Artificial Intelligence Lab at Amirk
 Make sure you have `numpy` installed:
 ```bash
 pip install numpy
-
-
-
-
-
+```
 
 
 
@@ -66,7 +62,7 @@ This project was developed as part of the **Artificial Intelligence Lab at Amirk
 Ensure you have the required analytical libraries installed:
 ```bash
 pip install numpy joblib matplotlib
-
+```
 
 
 
