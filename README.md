@@ -1,4 +1,4 @@
----
+
 
 ## 📌 Overview
 This repository contains a **from-scratch implementation** of two popular neural network paradigms using **only NumPy**:
